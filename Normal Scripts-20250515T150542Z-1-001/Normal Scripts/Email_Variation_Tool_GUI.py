@@ -1,4 +1,4 @@
-#Tool Architect 
+#Tool Architecture 
 # import pandas as pd 
 
 # def generate_email_variations(first_name, last_name, websiteNDdomain):
